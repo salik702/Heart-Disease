@@ -1,35 +1,41 @@
-❤️Heart Disease Prediction using KNN
+❤️HEART DISEASE PREDICTOR❤️
+Heart Disease Predictor is a simple and interactive Streamlit-based app that predicts the likelihood of heart disease in patients using a K-Nearest Neighbors (KNN) model with 86% accuracy. It provides an easy-to-use interface for quick predictions.
 
-Description:
-This project predicts the likelihood of heart disease in patients using the K-Nearest Neighbors (KNN) algorithm. The model achieves an accuracy of 86%.
+👉 Click here for Live Preview: Heart Disease Predictor
 
-The project workflow includes:
+🖼️ Preview
+App Screenshot (Add your screenshot here)
 
-Data Analysis & Preprocessing: Conducted in JupyterLab.
+🚀 Features
+❤️ Predict Heart Disease Risk
+📊 Enter Patient Health Metrics (Age, Blood Pressure, Cholesterol, etc.)
+🧠 Real-time Prediction Using KNN Model
+🖥️ Interactive Streamlit Frontend
+✅ Easy-to-Use Interface
 
-Machine Learning Model: Built using KNN to predict heart disease.
-
-Frontend: A user-friendly interface created with Streamlit, allowing users to input patient data and get instant predictions.
-
-The app is live online and accessible here
-.
-
-Features:
-
-Enter patient health metrics through an interactive Streamlit interface.
-
-Get real-time heart disease predictions.
-
-Simple and clean user interface for easy use.
-
-Technologies Used:
-
+🛠️ Tech Stack
 Python
-
-Pandas & NumPy
-
-scikit-learn (KNN)
-
 JupyterLab
-
+Pandas, NumPy
+scikit-learn (KNN)
 Streamlit
+
+📦 Installation (For Local Setup)
+
+# Clone the repository
+git clone <your-repo-url>
+
+# Navigate to project folder
+cd heart-disease-predictor
+
+# Activate virtual environment
+# Windows
+.\venv\Scripts\activate
+# macOS/Linux
+source venv/bin/activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run Streamlit app
+streamlit run app.py
