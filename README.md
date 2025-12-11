@@ -1,11 +1,12 @@
 ❤️ Heart Disease Predictor
-<img width="946" height="356" alt="image" src="https://github.com/user-attachments/assets/57ecd532-ebbe-4921-b313-64eaac602846" />
-
+Show Image
 A machine learning-powered web application that predicts the likelihood of heart disease in patients using a K-Nearest Neighbors (KNN) algorithm. Built with Streamlit for an intuitive and interactive user experience.
 🌐 Live Demo
 Try the app here →
+
 📋 Overview
 Heart Disease Predictor is designed to help healthcare professionals and individuals assess heart disease risk based on various health metrics. The application uses a trained KNN model that achieves 86% accuracy in predicting heart disease presence.
+
 ✨ Features
 
 ❤️ Heart Disease Risk Prediction - Get instant predictions based on patient data
@@ -21,8 +22,10 @@ And more clinical parameters
 🖥️ Interactive Interface - Clean and intuitive Streamlit-based UI
 ✅ User-Friendly Design - Simple workflow for quick assessments
 
+
 🛠️ Tech Stack
 TechnologyPurposePythonCore programming languageJupyterLabModel development and experimentationPandas & NumPyData manipulation and numerical operationsscikit-learnMachine learning model (KNN)StreamlitWeb application framework
+
 📦 Installation
 Follow these steps to run the project locally:
 Prerequisites
