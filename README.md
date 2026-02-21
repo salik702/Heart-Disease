@@ -94,8 +94,10 @@ This project is open-source and available for free.
   </a>
 </p>
 
-<p style="font-size:14px; color:gray;">
-  <em>© 2026 <b>Salik Ahmad</b>. All rights reserved. ☕ AI/ML Engineer</em>
+<p>
+  <a href="https://salikahmad.vercel.app/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=900&lines=Copyright%202026%20Salik%20Ahmad.%20All%20rights%20reserved.%20AI/ML%20Engineer" alt="Typing SVG" />
+  </a>
 </p>
 
 </div>
