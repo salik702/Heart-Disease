@@ -78,6 +78,8 @@ Contributions are welcome! Feel free to fork, clone, and submit a pull request.
 This project is open-source and available for free.
 
 ---
+## 📧 Contact
+
 <div align="center">
 
 <h3>Made with ❤️ by <b>Salik Ahmad</b></h3>
