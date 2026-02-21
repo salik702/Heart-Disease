@@ -78,5 +78,24 @@ Contributions are welcome! Feel free to fork, clone, and submit a pull request.
 This project is open-source and available for free.
 
 ---
+<div align="center">
 
-**Made with ❤️ by Salik Ahmad**
+<h3>Made with ❤️ by <b>Salik Ahmad</b></h3>
+
+<p>
+  <a href="https://salikahmad.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-🌐-blue?style=for-the-badge&logo=about.me&logoColor=white" alt="Website Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/salik-ahmad-programmer/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-🔗-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/salikahmad702" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-📊-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+</p>
+
+<p style="font-size:14px; color:gray;">
+  <em>© 2026 <b>Salik Ahmad</b>. All rights reserved. ☕ AI/ML Engineer</em>
+</p>
+
+</div>
